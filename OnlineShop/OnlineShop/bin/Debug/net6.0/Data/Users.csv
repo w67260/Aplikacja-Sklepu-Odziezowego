@@ -1,0 +1,11 @@
+UserID,Username,Password,City,Email,Role
+1,Admin,adminpass,Warszawa,admin@admin.com,Admin
+2,Jan_Kowalski,janpass,Kraków,jan_kowalski@mail.com,Klient
+3,Anna_Wójcik,annapass,Gdańsk,anna_wojcik@mail.com,Klient
+4,Michał_Zając,michałpass,Wrocław,michał_zając@mail.com,Klient
+5,Karolina_Mazur,karolinapass,Poznań,karolina_mazur@mail.com,Klient
+6,Krzysztof_Witkowski,krzysztofpass,Łódź,krzysztof_witkowski@mail.com,Klient
+7,Monika_Krawczyk,monikapass,Katowice,monika_krawczyk@mail.com,Klient
+8,Adam_Szymański,adampass,Lublin,adam_szymański@mail.com,Klient
+9,Ewa_Duda,ewapass,Gdynia,ewa_duda@mail.com,Klient
+10,Piotr_Wróbel,piotrpass,Szczecin,piotr_wróbel@mail.com,Klient

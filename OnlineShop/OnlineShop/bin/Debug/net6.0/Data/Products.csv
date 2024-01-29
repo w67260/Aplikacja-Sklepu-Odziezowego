@@ -1,0 +1,21 @@
+ProductID,Name,ManufacturerID,CategoryID,Size,Quantity,Price
+1,Adidas T-shirt,1,1,L,50,30.00
+2,Nike T-shirt,2,1,M,40,25.00
+3,Puma Jeans,3,2,M,30,50.00
+4,Reebok Buty,4,3,L,20,80.00
+5,New Balance Spodnie,5,2,L,25,60.00
+6,Vans Kurtka,6,4,M,15,120.00
+7,Converse Bluza,7,8,S,35,45.00
+8,Under Armour Koszula,8,9,L,20,70.00
+9,Lacoste Buty,9,3,L,10,90.00
+10,Tommy Hilfiger T-shirt,10,1,L,30,35.00
+11,Adidas Kurtka zimowa,1,14,L,10,200.00
+12,Nike Trampki,2,13,M,15,75.00
+13,Puma Spódnice,3,17,M,20,40.00
+14,Vans Spodnie,6,2,M,25,55.00
+15,New Balance Bluza,5,8,L,30,50.00
+16,Converse Garnitur,7,11,L,5,250.00
+17,Under Armour Klapki,8,12,M,20,30.00
+18,Lacoste Koszula,9,9,M,15,60.00
+19,Nike T-shirt,2,1,S,45,20.00
+20,Tommy Hilfiger Buty,10,3,3,150

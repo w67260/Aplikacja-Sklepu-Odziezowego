@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OnlineShop.AdminChoice">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEABAAAAAQYAAAAAAAIQiAAAgAAAQAAAQAAAAEAAgA=</HashCode>
+      <FileName>AdminChoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShop.ClientChoice">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAABAAAAQABAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ClientChoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShop.GetOrCreate">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAgAAAAAAAAAAAICAAAAACAAAAAAAIAAECAIA=</HashCode>
+      <FileName>GetOrCreate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShop.Login">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAACAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShop.LoginResult">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LoginResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShop.NewUser">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAIAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShop.Products">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShop.Program">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
